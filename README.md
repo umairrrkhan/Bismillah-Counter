@@ -12,21 +12,14 @@ This Python project demonstrates a real-time "Bismillah" counter using speech re
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/YourUsername/realtime-bismillah-counter.git
-   ```
-
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch for your feature or bug fix: git checkout -b feature-name.
-Make your changes and commit them: git commit -m "Description of your changes".
-Push to your branch: git push origin feature-name.
-Create a pull request on GitHub.
+- Fork the repository.
+- Create a new branch for your feature or bug fix: git checkout -b feature-name.
+- Make your changes and commit them: git commit -m "Description of your changes".
+- Push to your branch: git push origin feature-name.
+- Create a pull request on GitHub.
+
 ## License
 This project is licensed under the MIT License.
