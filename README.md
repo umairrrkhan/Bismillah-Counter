@@ -16,9 +16,7 @@ This Python project demonstrates a real-time "Bismillah" counter using speech re
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 - Fork the repository.
-- Create a new branch for your feature or bug fix: git checkout -b feature-name.
-- Make your changes and commit them: git commit -m "Description of your changes".
-- Push to your branch: git push origin feature-name.
+- Push to your branch.
 - Create a pull request on GitHub.
 
 ## License
